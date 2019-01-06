@@ -7,4 +7,16 @@ A summary of the code folders can be found below:
 	Hospital Simulation- This program simulates a priority queue, and is written in C++. 
 
 In-progress/Upcoming:
-	Visual Scripting Language (Unreal 4 & C++)- Developing a visual scripting language in 3D/VR, to allow users to connect visual objects for programming, instead of learning to type. Currently have UI, object spawn & connect, and grab functionality built. Currently working code interaction. Expected completion Q1 2019. Please reach out if curious!
+	Visual Scripting Language (Unreal 4 & C++)- Developing a visual scripting language in 3D/VR, to allow users to connect visual objects for programming, instead of learning to type. Currently have UI, object spawn & connect, and grab functionality built. Actual language interactions between objects comes Q1 2019. 
+	
+	Copy of latest exe can be downloaded here:
+	https://drive.google.com/drive/folders/1Yk3FnhD9mROvRQaU4cRJeRdZ0z00ik1f?usp=sharing 
+
+	Instructions:
+		Move Around (WASD)
+		Pick-up Objects (Move to, and press F)
+		Link two objects (Press left mouse key while pointed at object 1, point at object 2 and release mouse key)
+		Spawn Objects (Click 1 key, then mouse click the first or second menu object)
+
+	
+	
