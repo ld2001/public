@@ -9,6 +9,8 @@ A summary of the code folders can be found below:
 In-progress/Upcoming:
 	Visual Scripting Language (Unreal 4 & C++)- Developing a visual scripting language in 3D/VR, to allow users to connect visual objects for programming, instead of learning to type. Currently have UI, object spawn & connect, and grab functionality built. Actual language interactions between objects comes Q1 2019. 
 	
+	Edit- Final version compiled. Presentation also loaded.
+	
 	Copy of latest exe can be downloaded here:
 	https://drive.google.com/drive/folders/1Yk3FnhD9mROvRQaU4cRJeRdZ0z00ik1f?usp=sharing 
 
@@ -17,6 +19,7 @@ In-progress/Upcoming:
 		Pick-up Objects (Move to, and press F)
 		Link two objects (Press left mouse key while pointed at object 1, point at object 2 and release mouse key)
 		Spawn Objects (Click 1 key, then mouse click the first or second menu object)
+		Type- Hit insert, then enter. 
 
 	
 	
