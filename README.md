@@ -1,4 +1,4 @@
-The following are code samples of mine from a combination of classes and personal projects. Please don't hesitate to email: lukeding3@gmail.com for further questions or clarifications. All code should be considered open source, and free to use.
+The following are code samples of mine from a combination of classes and personal projects. Please don't hesitate to email: lding@pdx.edu for further questions or clarifications. All code should be considered open source, and free to use.
 
 Edit 6/16/19-
 
